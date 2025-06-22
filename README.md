@@ -70,5 +70,6 @@ README.md – Project documentation
 
 ## 📎 Useful Links
 https://www.linkedin.com/in/gadaley-navya-sri-4b5aa81ba/ [LinkedIn]
+
 https://github.com/navyasri0820/coinpulse-realtime-dashboard [GitHub Repository]
 
