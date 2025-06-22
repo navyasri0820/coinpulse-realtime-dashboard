@@ -55,8 +55,11 @@ This project uses a manual refresh strategy in Power BI to avoid the need for Pr
 
 ## 📂 Project Files
 scripts/crypto_api_pull.py – Python script that pulls and appends data daily
+
 data/crypto_daily.csv – Time-stamped historical dataset of top 50 cryptocurrencies
+
 dashboard/Crypto360.pbix – Power BI dashboard with filters, visuals, and KPIs
+
 README.md – Project documentation
 
 ## 💼 Skills Demonstrated
